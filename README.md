@@ -1,3 +1,4 @@
-# basic-html-gmail
+# Basic HTML Gmail replica
 This is a project based on [Foundational HTML](http://www.foundationalhtml.com/) course.
-Live demo: http://my-basic-html-gmail.glitch.me/
+
+## [See live demo here](http://my-basic-html-gmail.glitch.me/).
